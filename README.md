@@ -1,6 +1,6 @@
 # Gradle/Travis CI Example
 
-Shows a working setup for travis integration to extract project dependencies
+Shows a working setup for travis integration to extract project dependencies.
 
 ## Travis CI Setup
 
